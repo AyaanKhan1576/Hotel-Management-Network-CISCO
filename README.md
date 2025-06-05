@@ -108,6 +108,6 @@ Key features integrated into the network design include:
 
 ---
 
-## 🔚 Conclusion
+## Conclusion
 
 This project successfully demonstrates a comprehensive network design and implementation for a hotel management system. Future improvements could include enhanced security measures (ACLs, firewalls, VPNs) to protect sensitive data and improve resilience.
